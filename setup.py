@@ -11,7 +11,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setuptools.setup(
-    name='music_analysis_test',  # Replace with your own username e.g example-pkg-name #TODO
+    name='music_analysis_noha',  # Replace with your own username e.g example-pkg-name #TODO
     version=__about__.__version__,  # TODO
     author='Noha',
     author_email='noahalsultan@gmail.com',  # TODO
