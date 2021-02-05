@@ -1,3 +1,4 @@
+#MY FIRST PYTHON PACKAGE
 import setuptools
 
 from music_analysis import __about__
